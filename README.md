@@ -39,7 +39,6 @@
 
 - 🔐 **CyberSec Tools** – OSINT and Info Gathering CLI tool (Coming Soon)
 - 🛍️ **Pluto Store** – Laravel-based eCommerce platform  
-- 📦 **Vanex Delivery System** – Real-time delivery and tracking app  
 - 🛴 **Freego Scooter Rental** – Backend APIs for scooter rental app  
 - 📮 **WhatsApp Order Bot** – Laravel webhook system for order tracking
 
