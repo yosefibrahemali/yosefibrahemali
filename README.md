@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a 17-year-old student passionate about **technology**, **security**, and **open-source**.
+- 🎓 I'm a student passionate about **technology**, **security**, and **open-source**.
 - 🔨 I build practical, real-world tools using **Laravel**, **PHP**, **JavaScript**, and **Tailwind CSS**.
 - 💡 Currently learning more about **ethical hacking**, **web app security**, and **Linux systems**.
 - 🧠 I believe that technology should serve **people** — especially in the Arab world.
@@ -46,9 +46,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [gargumy1@gmail.com](mailto:gargumy1@gmail.com)
-- 💼 LinkedIn: *(Coming Soon)*
-- 📝 Portfolio: *(Coming Soon)*  
+- 📧 Email: [y.ibrahem.dev@gmail.com](mailto:y.ibrahem.dev@gmail.com) 
 - 🛠️ Currently building: My personal site + security toolkit
 
 ---
